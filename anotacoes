@@ -1,0 +1,18 @@
+Conteúdo da aula de hoje:
+Frameset
+Ãncora com Links
+Formulários
+
+
+
+
+Frameset = Compacta 2 páginas ou mais para apenas uma arquivo, sendo disposto em coluas linhas e mesclado.
+	Cols= Compacta as páginas em modo de Colunas.
+	Rows = Compacta as págians em modo de linhas
+	frameborder= O valor padrão 1 deixa uma borda em cada frame. Valor de 0 retira essa borda.
+	scrolling= O valor padrão 0 desativa a scrolling. O valor de 1 deixa o scrolling.
+
+
+
+
+Trabalho: Tema livre - Use uma home, um frame, links, Images 
